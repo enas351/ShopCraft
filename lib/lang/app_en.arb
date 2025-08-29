@@ -1,0 +1,25 @@
+{
+    "shop_craft":"ShopCraft",
+    "premium":"Your Premium Shopping Experience",
+    "sign_up":"Sign Up",
+    "sign_in":"Sign In",
+    "create_account":"Create Account",
+    "join":"Join ShopCraft today",
+    "full_name":"Full Name",
+    "full_name_hint":"Enter your full name",
+    "email":"Email",
+    "email_hint":"Enter your email",
+    "password":"Password",
+    "password_hint":"Enter your password",
+    "confirm_password":"Confirm Password",
+    "confirm_password_hint":"Confirm your password",
+    "required":"* This field is required",
+    "our_products":"Our Products",
+    "featured_products":"Featured Products",
+    "premium_laptop_collection":"Premium Laptop Collection",
+    "proffessional_workspace":"Professional Workspace",
+    "ambient_lighting":"Ambient Lighting",
+    "shop_our_collection":"Shop Our Collection",
+    "hot_offers":"Hot Offers 🔥"
+    
+}
