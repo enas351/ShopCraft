@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # 🛒 ShopCraft
 
-ShopCraft is a modern shopping app built with **Android Studio** and **Flutter** (or native Android, update depending on your stack).  
+ShopCraft is a modern shopping app built with **Android Studio** and **Flutter**.  
 It provides a smooth, user-friendly shopping experience with authentication, product browsing, cart management, and order tracking.
 
 ---
