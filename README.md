@@ -29,8 +29,7 @@ The goal of ShopCraft is to deliver a **mobile-first e-commerce solution** where
 - Add products to their shopping cart.
 - Authenticate via login and registration.
 
-This project demonstrates **clean mobile app architecture**, **UI design practices**, and integration with backend services (API or Firebase depending on your setup).
-
+This project demonstrates **clean mobile app architecture**, **UI design practices**.
 ---
 
 ## ✨ Features
